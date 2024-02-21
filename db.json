@@ -10,11 +10,11 @@
       }
     },
     {
-      "nome": "Carlos",
-      "ano_nascimento": 1990,
+      "nome": "Arthur",
+      "ano_nascimento": 2002,
       "notas": {
-        "n1": 8,
-        "n2": 6,
+        "n1": 10,
+        "n2": 9,
         "n3": 9
       }
     },
